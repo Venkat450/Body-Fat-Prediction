@@ -15,8 +15,8 @@ The following Python libraries are required:
 - `scikit-learn`
 
 Install these libraries using:
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
+```bash pip install pandas numpy matplotlib seaborn scikit-learn```
+
 Project Workflow
 Data Exploration:
 
